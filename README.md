@@ -50,7 +50,6 @@ Learn how to deploy your application online using platforms like GitHub Pages or
 
 Remember, the goal in six months is to build a solid foundation. There's a lot to learn in web development, so don't rush. Focus on understanding the core concepts and gaining practical experience through projects. As you become more comfortable with the basics, you can continue to explore more advanced topics and refine your skills further.
 
-[White and Blue Competitive Analysis Illustrative Professional Presentation.pdf](https://github.com/adilhamza-learnwithadil/web_development_complete_roadmap/files/12318384/White.and.Blue.Competitive.Analysis.Illustrative.Professional.Presentation.pdf)
 
 
 
