@@ -5,6 +5,7 @@ This is web development complete roadmap.
 
 #Week 1-2: HTML Basics
 Learn about HTML tags, structure, headings, paragraphs, links, and images.
+
 #Week 3-4: CSS Basics
 Understand CSS selectors, properties, colors, margins, and padding.
 Create simple layouts and styles for your HTML content.
@@ -13,6 +14,7 @@ Create simple layouts and styles for your HTML content.
 
 #Week 1-2: Intermediate HTML & CSS
 Dive deeper into HTML forms, tables, semantic elements, and responsive design concepts.
+
 #Week 3-4: JavaScript Fundamentals
 Explore variables, data types, operators, conditional statements, and loops.
 Learn how to use JavaScript to interact with your HTML and CSS.
@@ -21,6 +23,7 @@ Learn how to use JavaScript to interact with your HTML and CSS.
 
 #Week 1-2: Introduction to Front-End Libraries (e.g., Bootstrap)
 Learn how to use pre-built CSS frameworks to enhance your designs.
+
 #Week 3-4: Introduction to Version Control (e.g., Git)
 Understand the basics of version control for managing your code changes.
 
@@ -29,6 +32,7 @@ Understand the basics of version control for managing your code changes.
 #Week 1-2: Intermediate JavaScript
 Study functions, arrays, objects, and the Document Object Model (DOM).
 Start building interactivity and dynamic content on your web pages.
+
 #Week 3-4: Introduction to Front-End Frameworks (e.g., React)
 Gain familiarity with components, props, and state.
 Begin creating interactive single-page applications (SPAs).
@@ -37,6 +41,7 @@ Begin creating interactive single-page applications (SPAs).
 
 #Week 1-2: Introduction to Back-End Development
 Understand the role of back-end in web development.
+
 Week 3-4: Introduction to Databases
 Learn about databases, tables, records, and SQL queries.
 Practice with a simple database like SQLite.
@@ -45,6 +50,7 @@ Practice with a simple database like SQLite.
 
 #Week 1-2: Building Full-Stack Applications
 Combine your front-end and back-end skills to create a complete web app.
+
 #Week 3-4: Deployment Basics
 Learn how to deploy your application online using platforms like GitHub Pages or Heroku.
 
